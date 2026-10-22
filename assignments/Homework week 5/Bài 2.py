@@ -1,0 +1,6 @@
+a = int(input("Nhập số nguyên dương a: "))
+b = int(input("Nhập số nguyên dương b: "))
+print("Tổng của 2 số đó là:", a+b)
+print('Hiệu của 2 số đó là:', a-b)
+print('Tích của 2 số đó là:', a*b)
+print('Thương của 2 số đó là:', a/b)
